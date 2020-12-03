@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "48d144f2e3b6fe12e6ceedc36e38074b"
+build_time: [1607008989, 325953000]
+inputs:
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Quizzler-LayoutPractice-iOS13/Quizzler-iOS13/Model/QuizBrain.swift": [1601454265, 291705489]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Quizzler-LayoutPractice-iOS13/Quizzler-iOS13/Controller/ViewController.swift": [1601455357, 487464786]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Quizzler-LayoutPractice-iOS13/Quizzler-iOS13/Model/Question.swift": [1601454265, 229365110]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Quizzler-LayoutPractice-iOS13/Quizzler-iOS13/AppDelegate.swift": [1601064446, 883132458]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Quizzler-LayoutPractice-iOS13/Quizzler-iOS13/SceneDelegate.swift": [1601064446, 893948793]
